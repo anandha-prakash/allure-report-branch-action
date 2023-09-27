@@ -8,3 +8,4 @@ allure-results
 /playwright-report/
 /playwright/.cache/
 tests/**/*-darwin.png
+.idea
